@@ -1,0 +1,248 @@
+[
+  {
+    "ip": "139.199.214.202",
+    "port": 123,
+    "type": "ntp",
+    "monlist": false
+  },
+  {
+    "ip": "52.231.114.183",
+    "port": 123,
+    "type": "ntp",
+    "monlist": false
+  },
+  {
+    "ip": "132.163.97.2",
+    "port": 123,
+    "type": "ntp",
+    "monlist": false
+  },
+  {
+    "ip": "17.253.84.251",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "17.253.82.125",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "17.253.84.253",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "17.253.116.253",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "17.253.84.125",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "49.7.229.32",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "49.7.178.213",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "120.197.116.202",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "1.14.61.51",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "106.75.107.80",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "114.67.102.75",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "120.25.115.20",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "203.107.6.88",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "182.92.12.11",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "120.25.108.11",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "119.29.26.206",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "106.75.185.63",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "223.113.120.195",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "223.113.97.98",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "223.65.211.46",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "36.154.179.82",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "223.113.103.191",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "58.220.133.132",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "114.67.237.130",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "111.230.50.201",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "114.118.7.161",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "114.118.7.163",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "162.159.200.1",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "162.159.200.123",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "94.130.49.186",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "193.182.111.143",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "203.107.6.88",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "139.199.215.251",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "111.230.189.174",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "139.199.214.202",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "134.175.254.134",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "134.175.253.104",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  },
+  {
+    "ip": "101.6.6.172",
+    "port": 123,
+    "monlist": false,
+    "type": "ntp"
+  }
+]
