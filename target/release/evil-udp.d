@@ -1,1 +1,0 @@
-D:\Desktop\evil-udp\target\release\evil-udp.exe: D:\Desktop\evil-udp\src\lib\mod.rs D:\Desktop\evil-udp\src\lib\protocols\dns.rs D:\Desktop\evil-udp\src\lib\protocols\mod.rs D:\Desktop\evil-udp\src\lib\protocols\ntp.rs D:\Desktop\evil-udp\src\main.rs
